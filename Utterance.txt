@@ -1,0 +1,9 @@
+GetNewStatementIntent hype me up
+GetNewStatementIntent tell me something nice
+GetNewStatementIntent tell me something positive
+GetNewStatementIntent tell me I'm cute
+GetNewStatementIntent tell me I'm a boss
+GetNewStatementIntent I'm a boss
+GetNewStatementIntent I got this
+GetNewStatementIntent Who the best
+GetNewStatementIntent gas me up
