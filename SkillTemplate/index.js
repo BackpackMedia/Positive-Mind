@@ -12,11 +12,11 @@ var FACTS = [
     "Your a boss!",
     "Who da best? You the best!",
     "Today is another day people will experience your awesome",
-    "You dope as fuck man!",
+    "You dope man!",
     "Never forget that your great!",
     "I see you being cute and stuff",
     "Who you looking good for? Oh yea that's right, your just that fly",
-    "What has two fingers and is doing great? You do!",
+    "What has two thumbs and is doing great? You do!",
     "Go out there and save the world",
     "When people say they believe in super heros they are talking about you."
 ];
